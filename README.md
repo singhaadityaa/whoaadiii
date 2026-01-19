@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading 
 - 🌱 I’m currently learning psychology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me as3032560@gmail.com
+- 📫 How to reach me singhaaditya@post.com
 
 <!---
 who_aadiii/who_aadiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
